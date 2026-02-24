@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Gupta</h1>
-<h3 align="center">Computer Engineering Student | MERN Stack Learner | Open Source Beginner</h3>
+<h3 align="center">Computer Engineering Student | MERN Stack Learner | Open Source Beginner | 🏅 National Finalist @Health Hackathon '26</h3>
 
 ---
 
